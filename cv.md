@@ -5,3 +5,5 @@
 ## 4. small experience with HTML CSS PHP MYSQL in a graduation project (title "Hotel")
 ## 5. Code exemples: --
 ## 6. Experience: --
+## 7. --
+## 8. Writing a resume junior developer (my experience using english languages now)
