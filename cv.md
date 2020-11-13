@@ -6,4 +6,4 @@
 ## 5. Code exemples: --
 ## 6. Experience: --
 ## 7. --
-## 8. Writing a resume junior developer (my experience using english languages now)
+## 8. Writing a resume junior developer
